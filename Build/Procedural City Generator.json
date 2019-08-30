@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 2097152000,
+"dataUrl": "Procedural City Generator.data.unityweb",
+"asmCodeUrl": "Procedural City Generator.asm.code.unityweb",
+"asmMemoryUrl": "Procedural City Generator.asm.memory.unityweb",
+"asmFrameworkUrl": "Procedural City Generator.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
